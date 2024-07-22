@@ -1,2 +1,4 @@
 142.93.219.121 www.growtopia1.com
 142.93.219.121 www.growtopia2.com
+142.93.219.121 growtopia1.com
+142.93.219.121 growtopia2.com
